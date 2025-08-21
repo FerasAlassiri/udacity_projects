@@ -34,6 +34,8 @@ The project follows the **CRISP-DM process**:
 - `pandas`
 - `numpy`
 - `scikit-learn`
+- `matplotlib`
+- `seaborn`
 
 ---
 
