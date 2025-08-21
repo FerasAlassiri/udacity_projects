@@ -17,7 +17,7 @@ The project follows the **CRISP-DM process**:
 1. **Business Understanding** → Explore career-related questions.
 2. **Data Understanding** → Look at distributions, correlations, missing values.
 3. **Data Preparation** → Handle missing data, create target variable.
-4. **Modeling** → Train a logistic regression model to predict high-income developers.
+4. **Modeling** → Train a Linear regression model to predict high-income developers.
 5. **Evaluation** → Use accuracy, precision, recall, and F1 score.
 6. **Deployment** → Share insights through this GitHub repo and a blog post.
 
